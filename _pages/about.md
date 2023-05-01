@@ -35,6 +35,9 @@ E-mail: iriswx@ustc.edu.cn
 
 Homepage: https://Iriswangustc.github.io
 
+# CV 
+My CV is <a href="http://staff.ustc.edu.cn/~iriswx/cvxiaowang.pdf">here</a>.
+
 # Research
 My current research interests include international finance, international trade, corporate finance, development economics, and applied econometrics.
 
