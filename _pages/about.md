@@ -22,6 +22,38 @@ Welcome to my personal webpage!
 # About Me
 I am a Professor in the School of Management and an Assistant Dean of International Institute of Finance at the University of Science and Technology of China. I received her Ph.D. in Economics from University of Wisconsin-Madison in 2011, M.A. in Economics in 2005 and B.A. in Economics in 2003 from Peking University. My primary research interests include international finance, international trade, and applied econometrics. My work has appeared in leading economics and finance journals including Journal of International Economics, Journal of Banking and Finance, and others. I received the Pushan Academic Award for Excellent Papers on International Economics in 2016.
 
+# PROFESSIONAL EXPERIENCE
+ **Current Position**
+
+ University of Science and Technology of China Hefei, China
+ 
+ Professor, Since July 2018
+ 
+ Assistant Dean to Institute of International Finance, Since July 2019
+ 
+ **Previous Position**
+
+ University of North Dakota Grand Forks, North Dakota, US
+ 
+Associate Professor, August 2017-June 2018
+
+Assistant Professor, August 2012-May 2017
+
+ Visiting Assistant Professor, August 2011-May 2012
+
+# Educations
+University of Wisconsin–Madison Madison, Wisconsin, US
+
+*Ph.D.*, Economics, August 2011
+
+*M.S.*, Economics, August 2008 
+
+Peking University Beijing, China
+
+*M.A.*, Economics, June 2005
+
+*B.A.*, Economics, June 2003
+
 
 # Contact Information
 Department of Statistics and Finance, School of Management, University of Science and Technology of China
@@ -71,6 +103,40 @@ My current research interests include international finance, international trade
 - "Financial Constraints and Exports." First draft: 2012, this draft: 2015.
 
 - "Can Bilateral Trade Explain Output Correlations?" First draft: 2011, this draft: 2014.
+
+# Invited Talks 
+- China & World Economy Conference, CIFER Conference (Tsinghua University), Western 
+Economic Association International Conference, China Meeting of the Econometric 
+Society, Asia and Pacific Trade Seminar, 2022
+- Southern Economics Association Conference, Shanghai University of Finance and 
+Economics, China Meeting of the Econometric Society, Association of International 
+Business Annual Meeting, Hefei University of Technology, 2021
+- Tsinghua CIFER conference, Southern Economics Association Conference, USTC-UW 
+- Fintech and Management Innovation conference (keynote), Ohio University, Peking 
+University (School of Economics, Guanghua School of Management), 2020 
+- Tsinghua Workshop in Macroeconomics, China International Conference in 
+Macroeconomics, Asia and Pacific Trade Seminar, University of Science and Technology 
+of China, Southern Economic Association, 2019
+- The 10th International Symposium on Human Capital and the Labor Markets, University of 
+Wisconsin Alumni Conference in Asia, Peking University, 2018
+- Southern Economic Association Conference, University of Wisconsin-Madison, Southern 
+University of Science and Technology, 2017
+- Fudan University, Conference on International Finance, Midwest Macro Meeting, 
+Academia Sinica, The 4th Scholar Forum in International Finance, 2016
+- Econometric Society World Congress, University of International Business and Economics, 
+Workshop on International Economics at Fudan University, Eastern Economic Association 
+Conference, 2015
+- University of Winnipeg, Fudan University, Peking University, Tsinghua Macro 
+Conference, Midwest International Trade Meeting, 2014
+- Midwest Macro Meeting, Shanghai University of Finance and Economics, Asian Pacific 
+Trade Seminars, 2013
+- Midwest International Trade Meetings, University of North Dakota, 2012
+- Midwest Economic Association Annual Meeting, Eastern Economics Association Annual 
+Meeting, Bank of Canada, 2011
+- Midwest Economic Association Annual Meeting, Wisconsin–Madison, Midwest Economic 
+Theory and Trade Meetings, 2010
+- Wisconsin–Madison, Wisconsin–Whitewater, 2009
+
 
 # Teaching material
 - <a href="http://staff.ustc.edu.cn/~iriswx/researchpaper.pptx">Research and Paper</a>
