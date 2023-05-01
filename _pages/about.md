@@ -54,6 +54,29 @@ Peking University Beijing, China
 
 *B.A.*, Economics, June 2003
 
+# Honors and Awards
+- Teaching award first class, Anhui Province, China, 2022
+- National Natural Science Foundation of China (grant number: 72003181), $37,000, 2021-
+2023
+- Teaching research project, University of Science and Technology of China, $6,000, 2020-
+2021
+- Special research fund, University of Science and Technology of China, $15,000, 2020-
+2022
+- Tang Scholar, University of Science and Technology of China, $51,000, 2019-2021
+- Startup fund, University of Science and Technology of China, $142,000, 2018
+- Pushan Academic Award (Biennial), China Society of World Economics, $14,000, 2017
+- University of North Dakota Summer Research Support, $7,000, 2016
+- University of North Dakota Senate Travel Grant, $240, 2016
+- University of North Dakota Summer Research Support, $2,500, 2014
+- University of North Dakota Senate Research Award, $1,700, 2014
+- University of North Dakota Senate Travel Grant, $200, 2014
+- University of North Dakota Summer Research Support, $2,500, 2013
+- North Dakota Experimental Program to Stimulate Competitive Research Award, $2,500, 
+2012
+- Robock Award for Empirical Research, University of Wisconsin–Madison, $2,500, 2010
+- Honored Instructor Award, University of Wisconsin–Madison, 2008
+- Walter Morton Scholarship, University of Wisconsin–Madison, 2005–2006
+
 
 # Contact Information
 Department of Statistics and Finance, School of Management, University of Science and Technology of China
