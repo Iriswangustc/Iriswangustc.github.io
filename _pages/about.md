@@ -17,42 +17,57 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+Welcome to my personal webpage!
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+I am a Professor in the School of Management and an Assistant Dean of International Institute of Finance at the University of Science and Technology of China. I received her Ph.D. in Economics from University of Wisconsin-Madison in 2011, M.A. in Economics in 2005 and B.A. in Economics in 2003 from Peking University. My primary research interests include international finance, international trade, and applied econometrics. My work has appeared in leading economics and finance journals including Journal of International Economics, Journal of Banking and Finance, and others. I received the Pushan Academic Award for Excellent Papers on International Economics in 2016.
 
 
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# Contact Information
+Department of Statistics and Finance, School of Management, University of Science and Technology of China
 
-# 📝 Publications 
+Room 1031, Management R&D building, East Campus of USTC
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+96 Jinzhai Road, Hefei, Anhui 230026, People’s Republic of China
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+Phone: +86-551-63600762
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+E-mail: iriswx@ustc.edu.cn
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
+Homepage: https://Iriswangustc.github.io
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+# Research
+My current research interests include international finance, international trade, corporate finance, development economics, and applied econometrics.
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# Publications
+## Selected peer-reviewed journal articles
+- "FDI and Firm Productivity: The Role of Financial Constraints," with Wontae Han and Jian Wang， 2022. Journal of International Money and Finance, forthcoming.
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- "The Gravity of Intermediate Inputs in Productivity Spillovers: Evidence from Foreign Direct Investment in China," with Yiqing Xie， 2022. Review of International Economics, 30(2): 629-652.
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- "A Machine Learning Approach to Forecasting Carry Trade Returns," with Xiao Xie, Yihua Chen, and Borui Zhao, 2022. Applied Economics Letters, 29(13): 1199-1204.
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- "Do Banking System Transparency and Competition Affect Non-Performing Loans in the Chinese Banking Sector?" with Usman Bashir, Yugang Yu, Muntazir Hussain, Ahmed Ali, 2017, Applied Economics Letters, 24 (21): 1519-1525.
+
+- "Benefits of Foreign Ownership: Evidence from Foreign Direct Investment in China," with Jian Wang, 2015, Journal of International Economics, 97 (2): 325-338.
+
+- "Global Diversification and IPO Returns," with David Mauer, Song Wang and Yilei Zhang, 2015, Journal of Banking and Finance, 58: 436-456.
+
+- "Trade Credit, International Trade Costs and Exports: Cross-Country Firm-Level Evidence," 2015, Applied Economics Letters, 22 (12): 993-998.
+
+# Policy Articles 
+- "Foreign Direct Investment: Financial Benefits Could Surpass Gains in Technology," with Jian Wang and Janet Koech, 2015, Economic Letter, 10(9), 1-4.
+
+# Working Papers
+- "Cheap USD Credit: Panacea or Poison? Firm-level Evidence from Emerging Markets," with Steve Pak Yeung Wu and Haichun Ye. This draft: 2023.
+
+- "Favorable Tax Treatment for FDI firms and Foreign Ownership Wage Premium," with Wontae Han and Jian Wang. This draft: 2021.
+
+- "Benefits of FDI Subsidies: The Role of Funding Sources," with Wontae Han and Jian Wang. This draft: 2022.
+
+- "Financial Constraints and Exports." First draft: 2012, this draft: 2015.
+
+- "Can Bilateral Trade Explain Output Correlations?" First draft: 2011, this draft: 2014.
+
+# Teaching material
+- <a href="http://staff.ustc.edu.cn/~iriswx/researchpaper.pptx">Research and Paper</a>
+- <a href="http://staff.ustc.edu.cn/~iriswx/skillset.pptx">Skill Set</a>
