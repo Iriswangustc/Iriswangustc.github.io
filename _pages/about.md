@@ -25,7 +25,7 @@ I am a Professor in the School of Management and an Assistant Dean of Internatio
 # PROFESSIONAL EXPERIENCE
  **Current Position**
 
- University of Science and Technology of China Hefei, China
+ **University of Science and Technology of China Hefei, China**
  
  Professor, Since July 2018
  
@@ -33,7 +33,7 @@ I am a Professor in the School of Management and an Assistant Dean of Internatio
  
  **Previous Position**
 
- University of North Dakota Grand Forks, North Dakota, US
+ **University of North Dakota Grand Forks, North Dakota, US**
  
 Associate Professor, August 2017-June 2018
 
@@ -42,41 +42,17 @@ Assistant Professor, August 2012-May 2017
  Visiting Assistant Professor, August 2011-May 2012
 
 # Educations
-University of Wisconsin–Madison Madison, Wisconsin, US
+**University of Wisconsin–Madison Madison, Wisconsin, US**
 
 *Ph.D.*, Economics, August 2011
 
 *M.S.*, Economics, August 2008 
 
-Peking University Beijing, China
+**Peking University Beijing, China**
 
 *M.A.*, Economics, June 2005
 
 *B.A.*, Economics, June 2003
-
-# Honors and Awards
-- Teaching award first class, Anhui Province, China, 2022
-- National Natural Science Foundation of China (grant number: 72003181), $37,000, 2021-
-2023
-- Teaching research project, University of Science and Technology of China, $6,000, 2020-
-2021
-- Special research fund, University of Science and Technology of China, $15,000, 2020-
-2022
-- Tang Scholar, University of Science and Technology of China, $51,000, 2019-2021
-- Startup fund, University of Science and Technology of China, $142,000, 2018
-- Pushan Academic Award (Biennial), China Society of World Economics, $14,000, 2017
-- University of North Dakota Summer Research Support, $7,000, 2016
-- University of North Dakota Senate Travel Grant, $240, 2016
-- University of North Dakota Summer Research Support, $2,500, 2014
-- University of North Dakota Senate Research Award, $1,700, 2014
-- University of North Dakota Senate Travel Grant, $200, 2014
-- University of North Dakota Summer Research Support, $2,500, 2013
-- North Dakota Experimental Program to Stimulate Competitive Research Award, $2,500, 
-2012
-- Robock Award for Empirical Research, University of Wisconsin–Madison, $2,500, 2010
-- Honored Instructor Award, University of Wisconsin–Madison, 2008
-- Walter Morton Scholarship, University of Wisconsin–Madison, 2005–2006
-
 
 # Contact Information
 Department of Statistics and Finance, School of Management, University of Science and Technology of China
@@ -126,6 +102,34 @@ My current research interests include international finance, international trade
 - "Financial Constraints and Exports." First draft: 2012, this draft: 2015.
 
 - "Can Bilateral Trade Explain Output Correlations?" First draft: 2011, this draft: 2014.
+
+# Honors and Awards
+- Teaching award first class, Anhui Province, China, 2022
+- National Natural Science Foundation of China (grant number: 72003181), $37,000, 2021-
+2023
+- Teaching research project, University of Science and Technology of China, $6,000, 2020-
+2021
+- Special research fund, University of Science and Technology of China, $15,000, 2020-
+2022
+- Tang Scholar, University of Science and Technology of China, $51,000, 2019-2021
+- Startup fund, University of Science and Technology of China, $142,000, 2018
+- Pushan Academic Award (Biennial), China Society of World Economics, $14,000, 2017
+- University of North Dakota Summer Research Support, $7,000, 2016
+- University of North Dakota Senate Travel Grant, $240, 2016
+- University of North Dakota Summer Research Support, $2,500, 2014
+- University of North Dakota Senate Research Award, $1,700, 2014
+- University of North Dakota Senate Travel Grant, $200, 2014
+- University of North Dakota Summer Research Support, $2,500, 2013
+- North Dakota Experimental Program to Stimulate Competitive Research Award, $2,500, 
+2012
+- Robock Award for Empirical Research, University of Wisconsin–Madison, $2,500, 2010
+- Honored Instructor Award, University of Wisconsin–Madison, 2008
+- Walter Morton Scholarship, University of Wisconsin–Madison, 2005–2006
+
+
+
+
+
 
 # Invited Talks 
 - China & World Economy Conference, CIFER Conference (Tsinghua University), Western 
