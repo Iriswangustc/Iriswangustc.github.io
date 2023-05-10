@@ -20,7 +20,7 @@ redirect_from:
 Welcome to my personal webpage!
 
 # About Me
-I am a Professor in the School of Management and an Assistant Dean of International Institute of Finance at the University of Science and Technology of China. I received her Ph.D. in Economics from University of Wisconsin-Madison in 2011, M.A. in Economics in 2005 and B.A. in Economics in 2003 from Peking University. My primary research interests include international finance, international trade, and applied econometrics. My work has appeared in leading economics and finance journals including Journal of International Economics, Journal of Banking and Finance, and others. I received the Pushan Academic Award for Excellent Papers on International Economics in 2016.
+I am a Professor in the School of Management and an Assistant Dean of International Institute of Finance at the University of Science and Technology of China. My primary research interests include international finance, international trade, and applied econometrics. 
 
 # PROFESSIONAL EXPERIENCE
  **Current Position**
