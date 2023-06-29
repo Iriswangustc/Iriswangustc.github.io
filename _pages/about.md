@@ -93,7 +93,7 @@ My current research interests include international finance, international trade
 - "Foreign Direct Investment: Financial Benefits Could Surpass Gains in Technology," with Jian Wang and Janet Koech, 2015, Economic Letter, 10(9), 1-4.
 
 # Working Papers
-- "Estimating a dynamic network formation model with heterogeneity: Application to international trade network," with Yapeng Zheng and Bo Zhang. This draft: 2023. <a href="https://github.com/Iriswangustc/Iriswangustc.github.io/blob/main/docs/wangael2015.pdf">pdf</a>.
+- "Estimating a dynamic network formation model with heterogeneity: Application to international trade network," with Yapeng Zheng and Bo Zhang. This draft: 2023. <a href="https://github.com/Iriswangustc/Iriswangustc.github.io/blob/main/docs/Estimating_a_dynamic_network_formation_model_with_degree_heterogeneity__Application_to_international_trade_network (2).pdf">pdf</a>.
 
 - "Cheap USD Credit: Panacea or Poison? Firm-level Evidence from Emerging Markets," with Steve Pak Yeung Wu and Haichun Ye. This draft: 2023.
 
