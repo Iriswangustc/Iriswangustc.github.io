@@ -166,5 +166,5 @@ Theory and Trade Meetings, 2010
 
 
 # Teaching material
-- <a href="http://staff.ustc.edu.cn/~iriswx/researchpaper.pptx">Research and Paper</a>
-- <a href="http://staff.ustc.edu.cn/~iriswx/skillset.pptx">Skill Set</a>
+- <a href="https://github.com/Iriswangustc/Iriswangustc.github.io/blob/main/docs/researchpaper.pptx">Research and Paper</a>.
+- <a href="https://github.com/Iriswangustc/Iriswangustc.github.io/blob/main/docs/skillset.pptx">Skill Set</a>
