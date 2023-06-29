@@ -68,7 +68,7 @@ E-mail: iriswx@ustc.edu.cn
 Homepage: https://Iriswangustc.github.io
 
 # CV 
-My CV is .
+My CV is <a href="https://github.com/Iriswangustc/Iriswangustc.github.io/blob/main/docs/cvxiaowang.pdf">here</a>.
 
 # Research
 My current research interests include international finance, international trade, corporate finance, development economics, and applied econometrics.
@@ -76,18 +76,24 @@ My current research interests include international finance, international trade
 # Publications
 ## Selected peer-reviewed journal articles
 - "FDI and Firm Productivity: The Role of Financial Constraints," with Wontae Han and Jian Wang， 2022. Journal of International Money and Finance, forthcoming. 
-- "The Gravity of Intermediate Inputs in Productivity Spillovers: Evidence from Foreign Direct Investment in China," with Yiqing Xie， 2022. Review of International Economics, 30(2): 629-652. 
-- "A Machine Learning Approach to Forecasting Carry Trade Returns," with Xiao Xie, Yihua Chen, and Borui Zhao, 2022. Applied Economics Letters, 29(13): 1199-1204. 
-- "Do Banking System Transparency and Competition Affect Non-Performing Loans in the Chinese Banking Sector?" with Usman Bashir, Yugang Yu, Muntazir Hussain, Ahmed Ali, 2017, Applied Economics Letters, 24 (21): 1519-1525.
-- "Benefits of Foreign Ownership: Evidence from Foreign Direct Investment in China," with Jian Wang, 2015, Journal of International Economics, 97 (2): 325-338. 
-- "Global Diversification and IPO Returns," with David Mauer, Song Wang and Yilei Zhang, 2015, Journal of Banking and Finance, 58: 436-456.
-- "Trade Credit, International Trade Costs and Exports: Cross-Country Firm-Level Evidence," 2015, Applied Economics Letters, 22 (12): 993-998. 
+
+- "The Gravity of Intermediate Inputs in Productivity Spillovers: Evidence from Foreign Direct Investment in China," with Yiqing Xie， 2022. Review of International Economics, 30(2): 629-652. <a href="https://github.com/Iriswangustc/Iriswangustc.github.io/blob/main/docs/wangrie2021.pdf">pdf</a>.
+
+- "A Machine Learning Approach to Forecasting Carry Trade Returns," with Xiao Xie, Yihua Chen, and Borui Zhao, 2022. Applied Economics Letters, 29(13): 1199-1204. <a href="https://github.com/Iriswangustc/Iriswangustc.github.io/blob/main/docs/wangael2021.pdf">pdf</a>.
+
+- "Do Banking System Transparency and Competition Affect Non-Performing Loans in the Chinese Banking Sector?" with Usman Bashir, Yugang Yu, Muntazir Hussain, Ahmed Ali, 2017, Applied Economics Letters, 24 (21): 1519-1525. <a href="https://github.com/Iriswangustc/Iriswangustc.github.io/blob/main/docs/wangael2017.pdf">pdf</a>.
+
+- "Benefits of Foreign Ownership: Evidence from Foreign Direct Investment in China," with Jian Wang, 2015, Journal of International Economics, 97 (2): 325-338. <a href="https://github.com/Iriswangustc/Iriswangustc.github.io/blob/main/docs/wangjie.pdf">pdf</a>.
+
+- "Global Diversification and IPO Returns," with David Mauer, Song Wang and Yilei Zhang, 2015, Journal of Banking and Finance, 58: 436-456. <a href="https://github.com/Iriswangustc/Iriswangustc.github.io/blob/main/docs/wangjbf.pdf">pdf</a>.
+
+- "Trade Credit, International Trade Costs and Exports: Cross-Country Firm-Level Evidence," 2015, Applied Economics Letters, 22 (12): 993-998. <a href="https://github.com/Iriswangustc/Iriswangustc.github.io/blob/main/docs/wangael2015.pdf">pdf</a>.
 
 # Policy Articles 
 - "Foreign Direct Investment: Financial Benefits Could Surpass Gains in Technology," with Jian Wang and Janet Koech, 2015, Economic Letter, 10(9), 1-4.
 
 # Working Papers
-- "Estimating a dynamic network formation model with heterogeneity: Application to international trade network," with Yapeng Zheng and Bo Zhang. This draft: 2023. 
+- "Estimating a dynamic network formation model with heterogeneity: Application to international trade network," with Yapeng Zheng and Bo Zhang. This draft: 2023. <a href="https://github.com/Iriswangustc/Iriswangustc.github.io/blob/main/docs/Estimating_a_dynamic_network_formation_model_with_degree_heterogeneity__Application_to_international_trade_network (2).pdf">pdf</a>.
 
 - "Cheap USD Credit: Panacea or Poison? Firm-level Evidence from Emerging Markets," with Steve Pak Yeung Wu and Haichun Ye. This draft: 2023.
 
@@ -162,5 +168,5 @@ Theory and Trade Meetings, 2010
 
 
 # Teaching material
-- Research and Paper</a>.
-- Skill Set</a>
+- <a href="https://github.com/Iriswangustc/Iriswangustc.github.io/blob/main/docs/researchpaper.pptx">Research and Paper</a>.
+- <a href="https://github.com/Iriswangustc/Iriswangustc.github.io/blob/main/docs/skillset.pptx">Skill Set</a>
